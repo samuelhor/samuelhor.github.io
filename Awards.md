@@ -6,16 +6,16 @@ permalink: /awards/
 
 # Awards
 
-## Dean's Commendation Award, University of Exeter (2017)
+## NE Participation Fund (2025)
 
-* Awarded the Dean's Commendation Award for execeptional academic performance in year three of study
+* Awarded funding worth £1,000 towards my PhD studies
 
 ## Teaching Training Scholarship, Institute of Mathematics and its Applications (2023)
 
 * Awarded a scholarship worth £29,000 to fund my teacher training studies
 
-## NE Participation Fund (2025)
+## Dean's Commendation Award, University of Exeter (2017)
 
-* Awarded funding worth £1,000 towards my PhD studies
+* Awarded the Dean's Commendation Award for execeptional academic performance in year three of study
 
 [← Back to Home](/) 
