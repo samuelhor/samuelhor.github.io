@@ -8,7 +8,7 @@ permalink: /education/
 
 ## PhD Mathematics, Northumbria University (2024-2028)
 
-* STFC funded PhD on numerical modelling of coronal rain supervised by Patrick Antolin.
+* Grade Pending
 
 ## PGCE Secondary Education, University of Hertfordshire (2023-2024)
 
