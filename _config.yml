@@ -8,10 +8,10 @@ navigation:
   - title: Home
     url: /
   - title: About
-    url: /about
+    url: /about/
   - title: Research
-    url: /research
+    url: /research/
   - title: Teaching
-    url: /teaching
+    url: /teaching/
   - title: Contact
-    url: /contact
+    url: /contact/
