@@ -1,5 +1,10 @@
-remote_theme: pages-themes/modernist@v0.2.0
+remote_theme: academicpages/academicpages.github.io
 title: Samuel Hor
 description: Solar Physics PhD Student
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-paginate
+  - jemoji
