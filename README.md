@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Introduction"
+title: "Home"
 author_profile: true
 ---
 
