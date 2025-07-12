@@ -1,11 +1,5 @@
----
-layout: default
-title: Home
----
-
-# Samuel Hor
-Solar physics PhD student.
-
-**Navigation:** [Home](/) | [About](/about/) | [Teaching](/teaching/) | [Research](/research/) | [Publications](/publications/) | [Contact](/contact/)
-
-Welcome to my website...
+remote_theme: pages-themes/modernist@v0.2.0
+title: Samuel Hor
+description: Solar physics PhD student.
+plugins:
+  - jekyll-remote-theme
