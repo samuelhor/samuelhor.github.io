@@ -5,3 +5,5 @@ permalink: /teaching/
 ---
 
 # Teaching
+
+[← Back to Home](/) 
