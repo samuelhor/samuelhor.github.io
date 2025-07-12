@@ -1,4 +1,5 @@
 remote_theme: pages-themes/modernist@v0.2.0
-
 title: Samuel Hor
 description: Solar physics PhD student.
+plugins:
+  - jekyll-remote-theme
