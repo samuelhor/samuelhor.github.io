@@ -1,8 +1,11 @@
-remote_theme: pages-themes/modernist@v0.2.0
-title: Samuel Hor
-description: Solar Physics PhD Student
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+---
+layout: default
+title: Home
+---
 
-header_pages:
-  - Teaching.md
+# Samuel Hor
+Solar physics PhD student.
+
+**Navigation:** [Home](/) | [About](/about/) | [Teaching](/teaching/) | [Research](/research/) | [Publications](/publications/) | [Contact](/contact/)
+
+Welcome to my website...
