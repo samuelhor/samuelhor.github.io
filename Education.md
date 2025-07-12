@@ -8,7 +8,7 @@ permalink: /education/
 
 ## PhD Mathematics, Northumbria University (2024-2028)
 
-* Grade Pending
+* Grade pending
 
 ## PGCE Secondary Education, University of Hertfordshire (2023-2024)
 
