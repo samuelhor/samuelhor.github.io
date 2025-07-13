@@ -14,7 +14,7 @@ permalink: /education/
 
 * Pass
 
-## MMath Mathematics with International Study, University of Exeter (2014-2028)
+## MMath Mathematics with International Study, University of Exeter (2014-2018)
 
 * First Class Honours
 
