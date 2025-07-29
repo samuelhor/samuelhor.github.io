@@ -10,7 +10,7 @@ permalink: /awards/
 
 * Awarded a travel grant worth 300 USD
 
-* ## NE Participation Fund (2025)
+## NE Participation Fund (2025)
 
 * Awarded funding worth £1,000 towards my PhD studies
 
