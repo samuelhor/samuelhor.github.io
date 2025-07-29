@@ -10,7 +10,7 @@ permalink: /volunteering/
 
 ## Student Outreach Rep, University of Hertfordshire (Sep 2023 - Jun 2024)
 
-* Collated and provided feedback on the PGCE Seoncdary Education (Mathematics) course
+* Collated and provided feedback on the PGCE Secondary Education (Mathematics) course
 
 ## Teaching Assistant, Christ Church CE Primary School (Nov 2019 - Apr 2020)
 
