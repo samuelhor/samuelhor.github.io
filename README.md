@@ -4,7 +4,7 @@ title: "Home"
 author_profile: true
 ---
 
-[Awards](/awards/) [Conferences](/conferences/) | [Education](/education/)
+[Awards](/awards/) | [Conferences](/conferences/) | [Education](/education/)
 
 [Experience](/experience/) | [Teaching](/teaching/) | [Volunteering](/volunteering/)
 
