@@ -6,7 +6,11 @@ permalink: /awards/
 
 # Awards
 
-## NE Participation Fund (2025)
+## IAUS400 Travel Grant (2025)
+
+* Awarded a travel grant worth 300 USD
+
+* ## NE Participation Fund (2025)
 
 * Awarded funding worth £1,000 towards my PhD studies
 
