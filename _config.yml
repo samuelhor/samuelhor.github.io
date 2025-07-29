@@ -6,6 +6,7 @@ plugins:
 
 header_pages:
   - Awards.md
+  - Conferences.md
   - Education.md
   - Experience.md
   - Teaching.md
